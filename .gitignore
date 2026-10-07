@@ -1,0 +1,8 @@
+# Tag lists and captures are site data, not code
+*.csv
+*.pcap
+*.pcapng
+
+__pycache__/
+*.py[cod]
+.venv/
